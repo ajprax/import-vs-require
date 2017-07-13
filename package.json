@@ -1,0 +1,14 @@
+{
+  "name": "import-vs-require",
+  "version": "1.0.0",
+  "description": "demonstration of issue using import over require with electron-compile",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ajprax/import-vs-require",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "electron-prebuilt-compile": "^1.6.11"
+  }
+}

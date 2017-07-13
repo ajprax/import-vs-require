@@ -1,0 +1,7 @@
+{
+  "text/typescript": {
+    "sourceMap": true,
+    "jsx": "react",
+    "lib": ["es7", "dom"]
+  }
+}
